@@ -1,0 +1,10 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #BBBBBB;
+}
+.carousel-img-fixed {
+  width: 800px;         
+  height: 550px;
+  object-fit: cover;    
+  border-radius: 10px;  
+}

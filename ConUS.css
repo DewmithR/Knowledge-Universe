@@ -1,0 +1,30 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #BBBBBB;
+}
+.container-fluid .text-white {
+    color: #000000;
+}
+.contact-section {
+      padding: 60px 0;
+    }
+    .form-control {
+      border-radius: 10px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.05);
+    }
+    .btn-success {
+      border-radius: 8px;
+    }
+    .icon {
+      color: green;
+      margin-right: 10px;
+    }
+    .whatsapp-icon {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
+    .whatsapp-icon img {
+      height: 50px;
+    }
